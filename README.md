@@ -15,3 +15,5 @@ TIL - Data strucrture
 - [ ] 9 List
 - [ ] 10 Tree
 - [ ] 11 Hash
+
+[kay's velog](https://velog.io/@kay0710)
