@@ -28,13 +28,10 @@ int mid3(int arg1, int arg2, int arg3)
 		else if (arg2 < arg3)
 			mid = arg2;
 	}
-	else if (arg1 == arg2 || arg2 == arg3 || arg3 == arg1)
-	{
-		if (arg1 == arg2 == arg3)
-			mid = arg1;
-		else
-			mid = -1;
-	}
+	else if (arg1 == arg2 && arg2 == arg3)
+		mid = arg1;
+	else
+		mid = -1;
 	return mid;
 }
 
