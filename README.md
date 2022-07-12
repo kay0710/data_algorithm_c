@@ -2,7 +2,7 @@
 
 TIL - Data strucrture
 
-<span sytle='color:yellow'>직접 coding 한 내용이라 책의 내용과 다를 수 있습니다.</span>
+_직접 coding 한 내용이라 책의 내용과 다를 수 있습니다._
 
 - [ ] 1 Basic algorithm
 - [ ] 2 Basic data structure
@@ -16,4 +16,4 @@ TIL - Data strucrture
 - [ ] 10 Tree
 - [ ] 11 Hash
 
-[kay's velog](https://velog.io/@kay0710)
+[Kay's velog - code explanations](https://velog.io/@kay0710)
