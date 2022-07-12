@@ -2,8 +2,7 @@
 
 TIL - Data strucrture
 
-<span sytle='background-color:#ffdce0'>직접 coding 한 내용이라 책의 내용과 다를 수 있습니다.</span>
-<span sytle="color:red">직접 coding 한 내용이라 책의 내용과 다를 수 있습니다.</span>
+<span sytle='color:yellow'>직접 coding 한 내용이라 책의 내용과 다를 수 있습니다.</span>
 
 - [ ] 1 기본 알고리즘
 - [ ] 2 기본 자료구조
