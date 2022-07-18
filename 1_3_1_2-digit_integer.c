@@ -10,6 +10,7 @@ int main(void)
 		printf("n: ");
 		scanf("%d", &a);
 	} while (a < 10 || a > 99);
+	//} while (!(a >= 10 && a <= 99));    >> De Morgan's Laws
 	
 	printf("n is set as \"%d\"", a);
 
